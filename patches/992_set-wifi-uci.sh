@@ -34,8 +34,8 @@ EOF
 }
 
 jdc_ax1800_pro_wifi_cfg() {
-    configure_wifi 0 149 HE80 20 'JDC_AX1800PRO_5G' '12345678'
-    configure_wifi 1 1 HE20 20 'JDC_AX1800PRO' '12345678'
+    configure_wifi 0 149 HE80 20 'Natserver_5G' '1234567890'
+    configure_wifi 1 1 HE20 20 'Natserver_2.4G' '1234567890'
 }
 
 jdc_ax6600_wifi_cfg() {
